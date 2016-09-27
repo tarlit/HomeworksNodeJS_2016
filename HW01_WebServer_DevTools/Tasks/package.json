@@ -1,0 +1,16 @@
+{
+  "name": "webserver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "engine": "6.6.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "admin",
+  "license": "MIT",
+  "dependencies": {
+    "standard": "^8.1.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
